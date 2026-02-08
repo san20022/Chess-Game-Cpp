@@ -18,13 +18,6 @@ Steps to build and/or run the software:
 3. Compile the program using a C++ compiler such as `clang++` or `g++`.
 4. Run the generated executable file to start the game.
 
-Example commands (macOS):
-
-```bash
-clang++ main.cpp -o chess
-./chess
-
-/*
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
