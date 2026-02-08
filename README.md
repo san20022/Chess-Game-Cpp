@@ -9,7 +9,7 @@ The goal of this project is to demonstrate core C++ programming concepts such as
 
 ## Instructions for Build and Use
 
-[Software Demo](link)
+[Software Demo](https://www.kaltura.com//p/1157612/embedPlaykitJs/uiconf_id/56813562?iframeembed=true&entry_id=1_xk6ehjrn)
 
 Steps to build and/or run the software:
 
