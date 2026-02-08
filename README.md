@@ -23,3 +23,39 @@ Example commands (macOS):
 ```bash
 clang++ main.cpp -o chess
 ./chess
+## Development Environment
+
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
+
+* macOS (tested on macOS Sonoma)
+* Visual Studio Code (latest version)
+* C++ Compiler (clang++ via Xcode Command Line Tools)
+* Git (for version control)
+* GitHub (for repository hosting)
+* C++ Standard Library (STL)
+
+No external libraries were required; the project only uses built-in C++ STL.
+
+---
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+* [C++ Reference (cplusplus.com)](https://cplusplus.com/)
+* [W3Schools C++ Tutorial](https://www.w3schools.com/cpp/)
+* [Wikipedia - C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* [C++ STL Containers Reference](https://cplusplus.com/reference/stl/)
+* [GitHub Documentation](https://docs.github.com/en)
+
+---
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Add check and checkmate detection.
+* [ ] Add special chess rules such as castling, en passant, and pawn promotion.
+* [ ] Add move history log.
+* [ ] Improve board display for better readability.
+* [ ] Add advanced validation to prevent illegal moves.
