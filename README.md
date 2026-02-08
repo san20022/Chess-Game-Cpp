@@ -24,6 +24,7 @@ Example commands (macOS):
 clang++ main.cpp -o chess
 ./chess
 
+/*
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
